@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+KCM Data System Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub template repo contains the resources for building the KCM Data System Documentation.
 
-Read the tutorial here:
+The system can be accessed below:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://kcmdashboard.org
