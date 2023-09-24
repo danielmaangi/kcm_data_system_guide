@@ -19,7 +19,6 @@ Outline
    :maxdepth: 1
 
    setup
-   create_project
    glossary_terms
 
 
