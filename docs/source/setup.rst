@@ -10,22 +10,15 @@ Before you get started you are either a new user or existing user:
 
 New User
 ****************
-To get a new user started, please submit a request to :xref:`info@globalfundkcm.or.ke` with 
-title "KCM Data System User Account" for accunt creation. Provide at least the first and last name
+To get a new user on board, please submit a request to *info@globalfundkcm.or.ke* with 
+title "KCM Data System User Account" for account creation. Provide at least the first and last name
 and email address.
-
-Get Sublime from :xref:`Sublime` website.
-
-See the following video for installation help.
-
-.. youtube:: W9q8CwDKIEw
 
 Loggin in
 ==============
-
 See the following video to get started on how to log into the system.
 
-.. youtube:: SVkR1ZkNusI?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
+.. youtube:: iT9cEbh8VXA
 
 Install Sphinx
 ****************
