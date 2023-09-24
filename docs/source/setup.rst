@@ -52,3 +52,5 @@ Common menu items include:
 **Maintenance:** Perform system maintenance tasks, like backups and updates.
 **Apps:** Access additional ODS applications or modules.
 **Settings:** Configure system settings and preferences.
+
+.. note:: Your access to these applicatations will be limited depending on your roles in the system.
