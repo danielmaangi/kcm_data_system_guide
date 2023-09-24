@@ -23,7 +23,7 @@ Existing user
 **Note**: If your username and password are correct, you will be successfully logged into KODS.
 Otherwise click on **Forgot Password** and follow the prompts.
 
-.. image:: images/logging.png
+.. image:: images/login.png
  :width: 600
 
 Install Sphinx
