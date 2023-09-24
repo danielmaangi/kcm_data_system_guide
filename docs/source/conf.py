@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'KCM Oversight Data System (KODS)'
+copyright = '2023, Kenya Coordinating Mechanism'
+author = 'info@globalfundkcm.or.ke'
 
 release = '0.1'
 version = '0.1.0'
