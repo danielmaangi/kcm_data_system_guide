@@ -7,12 +7,12 @@ entails constant review and tracking of performance of the Principal Recipients 
 with management of resources.
 
 The tracking and review of performance is conducted through various structures of KCM, including the Oversight Committee,
-and is supported through use of electronic visualization dashboards for programmatic and financial data. The current
-KCM Dashboard was designed in 2017 to give a visual display of the most important information needed by decision
+and is supported through use of electronic visualization dashboards for programmatic and financial data. The purpose of
+KCM Oversight Data System is to facilitate and give a visual display of the most important information needed by decision
 makers to monitor progress towards the set objectives. Use of the system empowers managers and decision makers to take
 corrective actions to improve program performance.
 
-Get Started 
+Outline 
 ***********************
 
 .. toctree::
@@ -21,4 +21,5 @@ Get Started
    setup
    create_project
    glossary_terms
+
 

@@ -3,22 +3,28 @@
 Access
 ###################
 
-Before you get started you are either a new user or existing user:
+At any given time, you can either be:
 
-* `New User`_
-* `Loggin in`_
+* `New user`_ or
+* `Existing user`_
 
-New User
+New user
 ****************
 To get a new user on board, please submit a request to *info@globalfundkcm.or.ke* with 
 title "KCM Data System User Account" for account creation. Provide at least the first and last name
 and email address.
 
-Loggin in
+Existing user
 ==============
-See the following video to get started on how to log into the system.
+1.	Open your web browser and navigate to this URL: https://kcmdashboard.org/
+2. Enter your *username* and *password* in the login fields
+3.	Click the Login button to access ODS. 
 
-.. youtube:: iT9cEbh8VXA
+**Note**: If your username and password are correct, you will be successfully logged into KODS.
+Otherwise click on **Forgot Password** and follow the prompts.
+
+.. image:: images/logging.png
+ :width: 600
 
 Install Sphinx
 ****************
