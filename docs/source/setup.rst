@@ -1,16 +1,18 @@
 
 
-Set Up Your System
+Access
 ###################
 
-To get started, you need to:
+Before you get started you are either a new user or existing user:
 
-* `Install Sublime`_
-* `Install Sphinx`_
-* `Learn RST`_
+* `New User`_
+* `Loggin in`_
 
-Install Sublime
+New User
 ****************
+To get a new user started, please submit a request to :xref:`info@globalfundkcm.or.ke` with 
+title "KCM Data System User Account" for accunt creation. Provide at least the first and last name
+and email address.
 
 Get Sublime from :xref:`Sublime` website.
 
@@ -18,10 +20,10 @@ See the following video for installation help.
 
 .. youtube:: W9q8CwDKIEw
 
-Learn Sublime
+Loggin in
 ==============
 
-See the following video to get started learning Sublime.
+See the following video to get started on how to log into the system.
 
 .. youtube:: SVkR1ZkNusI?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
 
