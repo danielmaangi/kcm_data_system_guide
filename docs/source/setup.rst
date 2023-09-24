@@ -39,7 +39,7 @@ The page should look like the image below.
 
 The main menu is usually located on the left or top of the dashboard. 
 
-   .. image:: apps.png
+   .. image:: images/apps.png
      :width: 600
 
 It serves as the primary navigation tool for accessing various KODS modules and functionalities. 
