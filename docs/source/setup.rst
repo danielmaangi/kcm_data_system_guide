@@ -30,9 +30,25 @@ The log in page should be similar to the image below.
 Navigation
 ****************
 
-After a successful login, you'll typically land on the KCM-dashboard, unless you don’t have access to this application. 
+After a successful login, you'll typically land on the KCM summary dashboard, unless you don’t have access to this application. 
 
 The page should look like the image below.
 
    .. image:: images/kcmdashboard_start.png
      :width: 600
+
+The main menu is usually located on the left or top of the dashboard. 
+
+   .. image:: apps.png
+     :width: 600
+
+It serves as the primary navigation tool for accessing various KODS modules and functionalities. 
+Common menu items include:
+
+**Data Entry:** Access data entry forms and data capture tools.
+**Analytics:** Explore data analytics, charts, and reports.
+**Data Administration:** Manage data elements, indicators, datasets, and other data-related settings.
+**User Administration:** Control user accounts, roles, and permissions.
+**Maintenance:** Perform system maintenance tasks, like backups and updates.
+**Apps:** Access additional ODS applications or modules.
+**Settings:** Configure system settings and preferences.
