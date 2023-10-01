@@ -13,12 +13,14 @@ Data Entry App
 Under the **Data Entry** app, the following datasets are available for reporting:
 
 **Financial Reporting**
+These datasets are used to report the financial performance of each grant.
 
 #. **Finance: Principal Recipient, Quarterly** - This dataset is used to report the overall financial performance of each grant.
 #. **Finance: Sub Recipient, Quarterly** - This dataset is used to report the overall overall financial performance at sub recipient level.
 #. **COVID19 Finance: Principal Recipient**, Quarterly - This dataset is used to report the financial performance of the COVID19 grants.
 
 **Programmatic Reporting**
+These datasets are used to report the programmatic performance of each grant.
 
 #. **HIV, KRCS - Programmes** - For programmatic reporting of KEN-H-KRCS.
 #. **HIV, TNT - Programmes** - For programmatic reporting of KEN-H-TNT.
@@ -28,6 +30,8 @@ Under the **Data Entry** app, the following datasets are available for reporting
 #. **TB, TNT - Programmes** - For programmatic reporting of KEN-T-TNT.
 #. **TB, ECSA - Programmes** - For programmatic reporting of QPA-T-ECSA.
 #. **TB, IGAD - Programmes** - For programmatic reporting of QPA-T-IGAD.
+
+.. note:: For more details on the indicators for each grant, check the performance indicator reference sheet.
 
 **Oversight Field Visits**
 
