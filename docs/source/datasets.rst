@@ -10,13 +10,13 @@ Depending on the required data, there are typically two different ways data is c
 
 Data Entry App
 ****************
-Under the **Data Entry** app, and based on user rights assigned, the following datasets are available for reporting:
+Under the **Data Entry** app, the following datasets are available for reporting:
 
 **Financial Reporting**
 
 #. **Finance: Principal Recipient, Quarterly** - This dataset is used to report the overall financial performance of each grant.
 #. **Finance: Sub Recipient, Quarterly** - This dataset is used to report the overall overall financial performance at sub recipient level.
-#. **COVID19 Finance: Principal Recipienct**, Quarterly - This dataset is used to report the financial performance of the COVID19 grants.
+#. **COVID19 Finance: Principal Recipient**, Quarterly - This dataset is used to report the financial performance of the COVID19 grants.
 
 **Programmatic Reporting**
 
@@ -35,6 +35,7 @@ Under the **Data Entry** app, and based on user rights assigned, the following d
 
 Capture App
 ==============
+Under the capture app, the following forms are available:
 
 #. **Global Fund Grant Form** - To add/ update basic grant information.
 #. **Constituency Engagement Tool** - For constituency engagement reporting
