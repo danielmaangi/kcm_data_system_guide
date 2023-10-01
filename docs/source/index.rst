@@ -19,6 +19,7 @@ Outline
    :maxdepth: 1
 
    setup
+   datasets
    glossary_terms
 
 
